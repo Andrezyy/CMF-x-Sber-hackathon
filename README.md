@@ -1,1 +1,1 @@
-# CMF-x-Sber-hackathon
+# CMF x Sber hackathon
