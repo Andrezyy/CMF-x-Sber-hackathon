@@ -112,6 +112,8 @@
 
    ![minipic](https://github.com/Andrezyy/CMF-x-Sber-hackathon/blob/main/Images/third_part.png)
    
-**Гистограмма часов работы**
+**Иллюстрация**
+
+На графике прогноз по курьерам после 2ого этапа и результат работы 3ьего этапа, когда расписание оптимально замостилось сменами от 4 до 8 часов
 
    ![minipic](https://github.com/Andrezyy/CMF-x-Sber-hackathon/blob/main/Images/timetable.png)
