@@ -70,7 +70,7 @@
   <li>на 34-42 неделе обучаем, на 43 тестируем</li>
   <li>на 35-43 неделе обучаем, на 44 тестируем</li>
   ...
-  <li value="5">на 34-42 неделе обучаем, на 43 тестируем</li>
+  <li value="5">на 38-46 неделе обучаем, на 47 тестируем</li>
 </ol>
 
 На каждой считали mean mape на трейне и тесте и потом посчитали mean mape среди mean mape по зонам доставки, они получились следующими:
@@ -111,3 +111,7 @@
 **Результат III Этапа**
 
    ![minipic](https://github.com/Andrezyy/CMF-x-Sber-hackathon/blob/main/Images/third_part.png)
+   
+**Гистограмма часов работы**
+
+   ![minipic](https://github.com/Andrezyy/CMF-x-Sber-hackathon/blob/main/Images/timetable.png)
